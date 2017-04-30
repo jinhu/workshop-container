@@ -1,4 +1,5 @@
 # workshop-container
 
 ## create base continer 
-* start off with alpine
+
+* #1 start off with alpine:3.5
